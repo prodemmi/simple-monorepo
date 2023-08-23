@@ -1,5 +1,5 @@
 <template>
-  Admin Panel
+  New UI
 </template>
 
 <script>
