@@ -1,5 +1,6 @@
 <template>
   This is Ui Component
+  New compoenent
 </template>
 
 <script>
