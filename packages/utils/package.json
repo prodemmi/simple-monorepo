@@ -1,0 +1,13 @@
+{
+  "name": "utils",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "build": "echo Building style-guid",
+    "test": "echo Testing"
+  },
+  "author": "",
+  "license": "ISC"
+}
