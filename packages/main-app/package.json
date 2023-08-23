@@ -1,6 +1,6 @@
 {
   "name": "main-app",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "scripts": {
     "test": "echo Testing",
     "serve": "vue-cli-service serve",
